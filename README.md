@@ -1,2 +1,2 @@
-# Create Pokedéx with React and Hooks
-Direct application of React with Hooks to simulate a Pokedex.
+# Create Pokemon List with React
+Simple application in React to create a list of Pokemons.
