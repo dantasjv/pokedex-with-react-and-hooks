@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import PokemonThumb from '/component/PokemonThumb';
-import PokemonDetails from '/component/PokemonDetails';
+import PokemonThumb from './components/PokemonThumb'
+import PokemonDetails from './components/PokemonDetails';
 
 const App = () => {
 
